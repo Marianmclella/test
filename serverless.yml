@@ -1,0 +1,21 @@
+org: mail # (optional) serverless dashboard org. default is the first org you created during signup.
+app: mail # (optional) serverless dashboard app. default is the same as the name property.
+stage: dev # (optional) serverless dashboard stage. default is dev.
+component: express # (required) name of the component. In that case, it's express.
+name: mail # (required) name of your express component instance.
+
+inputs:
+  src:
+    src: ./ # (optional) path to the source folder. default is a hello world app.
+    exclude:
+      - .env
+  region: ap-shanghai
+  runtime: Nodejs10.15
+  functionName: mail
+  functionConf: 
+    timeout: 60 
+  apigatewayConf:
+    protocols:
+      - http
+      - https
+    environment: release

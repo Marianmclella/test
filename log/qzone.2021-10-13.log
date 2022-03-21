@@ -1,0 +1,4 @@
+[2021-10-13T14:43:07.314] [INFO] default - 发送邮件成功!邮件地址: 1093628993 @qq.com，投递结果: "{\"RequestId\":\"99e42068-0553-4dea-811f-d6643cfd5914\",\"MessageId\":\"qcloudses-30-1251761650-date-20211013144307-daDXICcCSEh1\"}"
+[2021-10-13T15:51:48.650] [INFO] default - 发送邮件成功!邮件地址: 109362899 @qq.com，投递结果: "{\"RequestId\":\"7d3704e8-5b83-49b2-b9ff-fb1e5a356dba\",\"MessageId\":\"qcloudses-30-1251761650-date-20211013155148-hgYjnwUPDip1\"}"
+[2021-10-13T15:52:25.135] [INFO] default - 发送邮件成功!邮件地址: 1093628993 @qq.com，投递结果: "{\"RequestId\":\"168e745b-68d2-4ec5-8b7e-73e427ce12ac\",\"MessageId\":\"qcloudses-30-1251761650-date-20211013155225-WmSDErlvkHo1\"}"
+[2021-10-13T16:19:32.645] [INFO] default - 发送邮件成功!邮件地址: 1093628993 @qq.com，投递结果: "{\"RequestId\":\"4cccb75a-35fd-4446-8f69-84dbac121697\",\"MessageId\":\"qcloudses-30-1251761650-date-20211013161932-mKNkbYpSKiv1\"}"

@@ -1,0 +1,6 @@
+[2021-10-12T00:08:36.676] [INFO] default - 发送邮件出错!邮件数量: 2 投递结果: {"msg":"{\"requestId\":\"bdc24471-cf64-4667-a0ae-72c75acf1a2f\",\"code\":\"InvalidParameter\"}"}
+[2021-10-12T00:09:16.240] [INFO] default - 发送邮件出错!邮件数量: 2 投递结果: {"msg":"{\"requestId\":\"eaa833d6-b30e-4758-9d64-435827ca773d\",\"code\":\"InvalidParameter\"}"}
+[2021-10-12T00:10:25.416] [INFO] default - 发送邮件成功!邮件数量: 2 投递结果: "{\"RequestId\":\"61dba928-00a0-448f-b361-82e23e4537c1\",\"MessageId\":\"qcloudses-30-1251761650-date-20211012001027-jAJbCXuGNDH1\"}"
+[2021-10-12T00:15:13.277] [INFO] default - 发送邮件成功!邮件数量: 2 投递结果: "{\"RequestId\":\"a8d0b149-6230-48c1-b56a-101c0d33ce9f\",\"MessageId\":\"qcloudses-30-1251761650-date-20211012001515-INoWlYNybCn1\"}"
+[2021-10-12T00:17:38.162] [INFO] default - 发送邮件成功!邮件数量: 2 投递结果: "{\"RequestId\":\"c133b48c-71f7-435b-8ccf-f9ba455b2715\",\"MessageId\":\"qcloudses-30-1251761650-date-20211012001740-lFLRnQeuOEf1\"}"
+[2021-10-12T14:30:36.625] [INFO] default - 采集成功，qq: 751323683
